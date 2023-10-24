@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hello, there! 👋
+
+# Welcome to my profile! I'm currently learning all the ins and outs of becoming a Full Stack Web Developer with the help of the Coding Bootcamp at the University of Sydney. When I'm not busy working on the challenges or projects from the Bootcamp, you can find me wandering on the internet to find my next travel destinations. Thanks for visiting my profile, and let's [connect](https://www.linkedin.com/in/miloyang/)! 
 
 <!--
 **miloyang/miloyang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
