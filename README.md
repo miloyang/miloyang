@@ -2,7 +2,7 @@
 
 Welcome to my profile! I'm currently learning all the ins and outs of becoming a Full Stack Web Developer with the help of the Coding Bootcamp at the University of Sydney. When I'm not busy working on the challenges or projects from the Bootcamp, you can find me wandering on the internet to find my next travel destinations. Thanks for visiting my profile, and let's [connect](https://www.linkedin.com/in/miloyang/)! 
 
-![miloyang](https://img.shields.io/badge/https://www.linkedin.com/in/miloyang/-#0072b1)
+[![miloyang](https://img.shields.io/badge/just%20the%20message-0072b1)][https://www.linkedin.com/in/miloyang/]
 
 -----
 
